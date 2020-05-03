@@ -1,1 +1,5 @@
-Schedio
+# Schedio
+A simple framework designed with OpenGL, allowing you to draw and *design* graphical elements. It is meant to be a simple and abstract implementation, while still offering the core, bottom level functionality alongside higher level protections.
+
+## License
+This project is licensed under the [GNU General Public License v3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)) &#8212; you may copy, distribute and modify the software as long as you track changes/dates in source files.
